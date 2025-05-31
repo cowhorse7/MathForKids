@@ -10,5 +10,5 @@ I hope to have a working website and game by the end of this school term (about 
 
 ## Details and Images
 ![Alt text](./erd_image)
-![Alt text](./gameplay_image)
-![Alt text](./design_images)
+![Alt text](./gameplay.png)
+![Alt text](./pageDesigns.png)
