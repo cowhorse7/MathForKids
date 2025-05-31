@@ -7,3 +7,8 @@ I'm still not fully decided as of now, but planning on Angular as the code base.
 
 ## Timeline
 I hope to have a working website and game by the end of this school term (about 3 weeks from now). I don't expect to have anything too fancy by then, but I will continue working until I am satisfied and hopefully until others have a chance to enjoy it, too.
+
+## Details and Images
+![Alt text](./erd_image)
+![Alt text](./gameplay_image)
+![Alt text](./design_images)
