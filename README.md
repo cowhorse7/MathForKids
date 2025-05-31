@@ -10,5 +10,6 @@ I hope to have a working website and game by the end of this school term (about 
 
 ## Details and Images
 ![Alt text](./erd_image)
+Each user is only able to win an award one time, so a user and award type are together unique in the award table.
 ![Alt text](./gameplay.png)
 ![Alt text](./pageDesigns.png)
