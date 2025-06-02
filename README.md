@@ -15,3 +15,7 @@ I have until the 16th of June to complete the project. By the end of next week (
 Each user is only able to win an award one time, so a user and award type are together unique in the award table.
 ![Alt text](./gameplay.png)
 ![Alt text](./pageDesigns.png)
+
+## Progress and Time Spent
+~5/28 ~30min iterate ideas and prepare project pitch
+5/30 1hr design basic project, set up github, deploy vercel
